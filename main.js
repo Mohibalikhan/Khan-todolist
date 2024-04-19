@@ -1,5 +1,4 @@
 #! /usr/bin/env node
-
 import inquirer from "inquirer";
 let todos = []; // THIS IS CALLED SHOPPER
 let condition = true;
